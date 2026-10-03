@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3633c295753ad49b6b7c46f7",
+  "owner": "vgmxtstnana",
+  "repo": "page-88af4a0143dd87dd705762f0",
+  "title": "缥缈墟",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "88af4a0143dd87dd705762f0",
+      "a": "缥缈墟",
+      "b": "",
+      "entity": "缥缈墟",
+      "brand": "缥缈墟",
+      "separator": "",
+      "path": "index.html",
+      "hash": "f69e3268430528b60d3be4143aa4ceb47198b410a17629286074a655b4311c5f",
+      "content": {
+        "keyword1": "缥缈墟",
+        "keyword2": "",
+        "primary_entity": "缥缈墟",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "缥缈墟是面向个人与团队的官方网络加速服务，提供机场订阅、VPN梯子与多端客户端下载，覆盖办公、流媒体与游戏加速场景，并开放基础版、旗舰版与团队版套餐说明。",
+          "AI_DESCRIPTION": "缥缈墟是面向个人与团队的官方网络加速服务，提供机场订阅、VPN梯子与多端客户端下载，覆盖办公、流媒体与游戏加速场景，并开放基础版、旗舰版与团队版套餐说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#061428;color:#e7f4f7;font-size:17px;line-height:1.75}a{color:#3ee0d8;text-decoration:none}a:hover{text-decoration:underline}img,svg{display:none}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}header{background:#081526;border-bottom:1px solid #16384a;padding:14px 0}header .brand{font-size:1.15rem;font-weight:700;color:#7ff5ee;letter-spacing:.04em}nav{margin-top:8px;display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#c9e8ee;font-size:.95rem}.hero{padding:28px 0 8px}h1{font-size:1.9rem;line-height:1.3;margin:0 0 12px;color:#f3fcfd}h2{font-size:1.4rem;margin:32px 0 12px;color:#8af4ee;border-left:4px solid #1ac8c4;padding-left:10px}h3{font-size:1.08rem;margin:18px 0 8px;color:#d7fbff}p,li{color:#d5eaee}.lead{font-size:1.05rem;color:#b9dbe2;max-width:46em}.cols{display:flex;flex-wrap:wrap;gap:20px}.cols>section,.cols>article{flex:1 1 300px;background:#0c2238;border:1px solid #1a4d5f;border-radius:10px;padding:16px 18px}.cards{display:flex;flex-wrap:wrap;gap:16px}.card{flex:1 1 260px;background:#0e2740;border:1px solid #1e5a6e;border-radius:10px;padding:18px 18px 8px}.card.featured{border-color:#2ee6dc;background:#0c3050;box-shadow:0 0 0 1px #1aa8a2 inset}.tag{display:inline-block;background:#145e62;color:#c5fffb;font-size:.78rem;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.55rem;color:#5ef0e8;margin:4px 0}.annual{color:#9ec9d0;font-size:.92rem;margin:0 0 10px}.card ul{padding-left:1.1em;margin:0 0 16px}.clients{display:flex;flex-wrap:wrap;gap:12px}.client{flex:1 1 220px;background:#0b2a40;border:1px solid #1c5c6c;border-radius:8px;padding:14px 16px}.steps{counter-reset:step;padding:0;list-style:none}.steps li{position:relative;background:#0c2238;border:1px solid #18485a;border-radius:8px;padding:12px 14px 12px 48px;margin:0 0 10px}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:12px;top:12px;width:26px;height:26px;border-radius:50%;background:#145e62;color:#e7fffd;text-align:center;line-height:26px;font-size:.9rem}details{background:#0e2740;margin:10px 0;padding:12px 16px;border-radius:8px;border:1px solid #18485a}summary{cursor:pointer;font-weight:650;color:#7ff5ee}details p{margin:8px 0 4px;color:#cfe3e8}footer{background:#07101c;margin-top:48px;padding:28px 0 36px;color:#8aaab4;font-size:.95rem}footer h2{font-size:1.05rem;margin:8px 0 8px;border:0;padding:0;color:#9ed8d4}.flink,.map a{display:inline-block;margin:0 12px 8px 0}.adbox{background:#0c2238;border:1px dashed #2a6a78;border-radius:8px;padding:12px 14px;margin:8px 0 16px;color:#bcd6dc}@media (max-width:640px){h1{font-size:1.55rem}body{font-size:16px}.card,.client{flex:1 1 100%}}</style><header><div class=\"wrap\"><div class=\"brand\">缥缈墟官网</div><nav><a href=\"#about\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><div class=\"hero\"><h1>缥缈墟</h1><p class=\"lead\">缥缈墟官方网站面向需要稳定跨境连接的用户，提供机场订阅、VPN 梯子与网络加速服务。本页说明套餐差异、客户端选择与导入步骤，便于在官网完成下载与配置。</p></div><section id=\"about\"><h2>品牌简介</h2><div class=\"cols\"><article><h3>服务是什么</h3><p>缥缈墟是以订阅为核心的网络加速服务。用户获取专属订阅后，可在主流客户端中一键导入节点，用于访问公开互联网资源、提升跨境办公链路质量，以及观看已授权地区的流媒体内容。我们以线路分层与设备配额管理套餐，而不是堆砌无法核验的口号。</p><p>作为信息展示与官方下载指引页，缥缈墟强调可执行的配置路径：选套餐、取订阅、选客户端、导入并连接。节点覆盖常见中转与部分专线，旗舰版起提供 IPLC 游戏向优化，团队版面向多设备协同。</p></article><article><h3>官方身份与使用边界</h3><p>请通过本站栏目核对套餐、设备数与流量口径。下载入口集中在「客户端选择」与「官方下载」锚点，避免来路不明的安装包。缥缈墟不替代本地合规网络，不提供破解、绕过版权保护或攻击类用途说明。</p><p>性能表现与当地运营商、终端设备和目标站点有关。页面给出的是套餐内可预期的能力范围：基础流媒体、全节点解锁、专线优化与企业路由，分别对应三个版本，便于对照选择。</p></article></div></section><section id=\"plans\"><h2>套餐方案</h2><p>价格按自然月计费，年付为十二个月打包价。流量为套餐周期内可用的加速流量，设备数为可同时在线的终端上限。</p><div class=\"cards\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"tag\">推荐 · 旗舰</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><section><h3>跨境协作与远程办公</h3><p>会议、云盘与代码托管对链路稳定性敏感。基础版普通节点池可满足文档与邮件类访问；需要更长时间在线或多地会议室的团队，可使用团队版高带宽节点与定制路由，把办公网段与加速网段分开。</p></section><section><h3>学术检索与资料站点</h3><p>论文库、预印本与公开数据集站点常有区域访问差异。将浏览器或系统代理指向缥缈墟订阅后，按目标地区选择节点即可。流量以套餐月额度计算，适合间歇性查阅，不适合无限制镜像整站。</p></section></div><div class=\"cols\"><section><h3>流媒体与内容解锁</h3><p>基础版覆盖常见基础流媒体；旗舰版与团队版强调全节点原生解锁，减少因共享出口导致的播放失败。实际可看片源仍受平台账号地区与版权策略约束，请以平台规则为准。</p></section><section><h3>游戏与低延迟对战</h3><p>旗舰版包含 IPLC 专线游戏加速优化，适合对延迟抖动敏感的对战与更新下载。团队版在此基础上提供更高带宽与更多同时在线设备，便于工作室或多成员共用一条订阅策略。</p></section></div></section><section id=\"clients\"><h2>客户端选择与下载指引</h2><p id=\"download\">缥缈墟订阅采用通用机场链接格式，可导入 Clash 系、sing-box 系及常见移动端应用。请先在本页确认系统，再前往官网下载栏目获取对应安装包，最后将订阅 URL 粘贴到客户端的「订阅 / Profile」中更新节点。</p><div class=\"clients\"><article class=\"client\"><h3>Windows</h3><p>推荐 Clash Verge、Clash Meta for Windows 或 NekoBox。安装后选择「从 URL 导入」，开启系统代理或 TUN 模式。适合办公电脑与游戏主机同网段共享前的主控端。</p><p><a href=\"#guide\">查看导入步骤</a></p></article><article class=\"client\"><h3>macOS</h3><p>可使用 Clash Verge、Stash 或 sing-box 图形前端。macOS 需在系统设置中允许网络扩展。订阅更新频率建议 12–24 小时一次，避免节点变更后仍使用旧配置。</p><p><a href=\"#guide\">查看导入步骤</a></p></article><article class=\"client\"><h3>Android</h3><p>Clash Meta、NekoBox 与 sing-box 客户端均可。建议开启分应用代理，仅对浏览器、会议与指定应用走加速，节省月度流量。后台省电策略需允许客户端保活。</p><p><a href=\"#guide\">查看导入步骤</a></p></article><article class=\"client\"><h3>iOS</h3><p>常用 Shadowrocket、Stash 或 Surge。通过 Safari 或应用内「订阅」粘贴链接。iOS 对 VPN 配置有系统授权提示，首次连接需确认。设备计入同时在线台数。</p><p><a href=\"#guide\">查看导入步骤</a></p></article><article class=\"client\"><h3>Linux 与路由器</h3><p>命令行可用 clash / mihomo / sing-box。家用路由可在支持的固件中粘贴订阅，使局域网设备共享，但共享后仍受套餐设备上限约束。团队版更适合这种部署。</p><p><a href=\"#guide\">查看导入步骤</a></p></article></div></section><section id=\"guide\"><h2>操作说明</h2><ol class=\"steps\"><li><strong>对照需求选择套餐。</strong> 流量少、设备少选基础版；需要原生流媒体与游戏专线选旗舰版；多人、多终端或要定制路由选团队版。</li><li><strong>在官网完成订阅获取。</strong> 订阅成功后会得到一条专属链接。请保存在密码管理器中，不要把链接发到公开群组。</li><li><strong>按系统下载官方客户端。</strong> 回到「客户端选择」核对名称，通过官网下载安装，拒绝来路不明的修改版。</li><li><strong>导入订阅并更新节点。</strong> 在客户端选择新增订阅、粘贴 URL、立即更新。确认节点列表出现香港、日本、新加坡、美国等常见出口后再连接。</li><li><strong>选择模式并验证。</strong> 日常浏览可用规则模式；游戏或会议可切全局或 TUN。用目标站点检测连通即可，无需额外插件。</li></ol><h3>节点使用建议</h3><p>普通线路适合网页与轻量视频；观看对出口纯净度要求高的内容时，优先旗舰或团队套餐中的原生解锁节点。游戏请固定 IPLC 或低延迟专线，避免频繁切换导致会话重置。若某节点超时，更新订阅或换同地区备用节点即可。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>缥缈墟是什么？和普通 VPN 有何不同？</summary><p>缥缈墟是以机场订阅方式交付的网络加速服务。它把多条代理节点打包进一条订阅链接，用户用自选客户端导入即可，而不是绑定单一封闭 App。你可以按场景换节点、按套餐控制流量与设备数，更接近可配置的加速器，而不是不可见的一键 VPN。</p></details><details><summary>如何从官网下载客户端并导入机场订阅？</summary><p>先在本页「客户端选择」确定系统对应的软件名称，再通过「官方下载」栏目获取安装包。打开客户端后找到订阅或 Profile，粘贴缥缈墟提供的 URL，执行更新。Windows 与 macOS 建议开启 TUN；手机端按应用分流。导入失败时检查链接是否完整、系统时间是否准确。</p></details><details><summary>三个套餐该怎么选？年付和月付有何差异？</summary><p>基础版适合轻度浏览与三台设备；旗舰版把流量提到 300GB，并加入全节点流媒体与 IPLC 游戏优化；团队版面向二十台设备与千 GB 流量，带 VIP 节点和客户经理。年付是十二个月打包价，折算更低，流量仍按月重置，不会把全年流量合并到单月。</p></details><details><summary>同时在线设备如何计算？路由器共享算几台？</summary><p>以实际发起连接的终端计数。电脑、手机、平板各算一台。路由器若作为网关让局域网多设备同时走代理，通常按产生独立会话的终端累计，容易触及基础版三台上限，因此家庭或工作室共享更适合团队版。仅一台设备经路由出站时，一般按一台计。</p></details><details><summary>旗舰版 IPLC 游戏加速适合哪些场景？</summary><p>适合对延迟和抖动敏感的对战、登录与补丁下载。IPLC 是点对点专线优化，不是无限带宽承诺。若你主要看视频或处理文档，基础版普通节点池通常足够；只有在需要更稳的对战链路时，旗舰版的专线项才有明确价值。</p></details><details><summary>流量用尽或节点无法解锁流媒体怎么办？</summary><p>流量在套餐周期内用尽后加速通道会降速或暂停，待下一周期重置，或在官网升级套餐。基础版仅承诺基础流媒体；若平台提示地区限制，请改用旗舰或团队的原生解锁节点并更新订阅。账号本身的地区设置仍由内容平台决定，加速器不能改变版权授权范围。</p></details><details><summary>如何联系支持？团队版的客户经理包含什么？</summary><p>旗舰版提供 7x24 优先工单，适合节点故障、订阅导入和设备占用问题。团队版在工单之外配备专属客户经理，可协助规划企业定制路由、设备清单与带宽分配。个人用户优先查阅本页操作说明与 FAQ，大部分导入问题可在客户端内完成。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"ads\"><h2>广告</h2><div class=\"adbox\">品牌文字广告位：欢迎工具类、文档类与设计类站点洽谈文字链互换。不放置弹窗、不引入外部脚本或追踪像素，合作说明请通过工单提交站点名称与锚点文案。</div></section><section id=\"friends\"><h2>友情链接</h2><p class=\"flink\"><a href=\"#\">网络加速导航</a><a href=\"#\">客户端配置笔记</a><a href=\"#\">流媒体地区对照</a><a href=\"#\">办公跨境工具箱</a><a href=\"#\">路由固件手册</a></p></section><section id=\"sitemap\"><h2>网站地图</h2><p class=\"map\"><a href=\"#about\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#clients\">客户端下载</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a><a href=\"#ads\">广告</a><a href=\"#friends\">友情链接</a></p><p>栏目结构即本站地图，对应 WebPage 信息页，便于对照套餐、客户端与 FAQ。</p></section><p>© 缥缈墟官网 · 机场订阅与 VPN 梯子网络加速服务说明页</p></div></footer>",
+          "hash": "98d6bfdb2fc72328bc95f623ed8a34d1fc8a3005c4b7a93deff30a278fdfbb50",
+          "seo": {
+            "title": "缥缈墟官网：VPN梯子网络加速与机场客户端下载",
+            "keywords": "缥缈墟,缥缈墟机场,缥缈墟VPN,缥缈墟官网,梯子,网络加速,加速器,机场订阅,客户端下载,官方下载,IPLC专线",
+            "description": "缥缈墟是面向个人与团队的官方网络加速服务，提供机场订阅、VPN梯子与多端客户端下载，覆盖办公、流媒体与游戏加速场景，并开放基础版、旗舰版与团队版套餐说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nxcqj.cn",
+    "host": "p-0c171b55c5.nxcqj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "nxcqj.cn",
+      "url": "https://nxcqj.cn/",
+      "label": "Miaona",
+      "apex": "nxcqj.cn",
+      "kind": null,
+      "identity": "br5cqyxe/page-3df8b5169650e9e3ee4c09c5"
+    },
+    {
+      "host": "aksksu.cn",
+      "url": "https://aksksu.cn/",
+      "label": "缥缈墟",
+      "apex": "aksksu.cn",
+      "kind": null,
+      "identity": "cwcqqj/page-e3b4a2b531ebb15b7900eb69"
+    },
+    {
+      "host": "akxkxp.cn",
+      "url": "https://akxkxp.cn/",
+      "label": "缥缈墟",
+      "apex": "akxkxp.cn",
+      "kind": null,
+      "identity": "wfcywcta/page-238bf10cd943bc23d2989dc7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6b4f9c409654909a2e2982334cadad2a32d388b07a3b47389001b02c9c4c1ad1",
+    "sitemap.xml": "5547721ac5b6b0fa46bee709f567abc73ca543656ad0fd183f5cb2df0c5d8843",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8d51a50a4b5151488f7ddf1b2db51fab61386881f66b56dbefdacc66c7b60c2b",
+    "robots.txt": "b34b12519a8f60cd2e22d0b47baed4a31bca185365a70595d91871712a3eb8b5",
+    "850b3aea8673bdd3788357100645fc12.txt": "63c5f0f1c10b1dbc23eefdd3c7fb715f6a70d542b3ee37c84ae232fea5de35b3"
+  },
+  "revision": "c672f9c7ad1d378820a36bb608b925bd373a125fb8cbba933d3c56d77cf3675a"
+}
